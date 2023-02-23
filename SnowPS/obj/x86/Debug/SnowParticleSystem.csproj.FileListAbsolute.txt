@@ -1,0 +1,12 @@
+C:\Users\erizo\Downloads\SnowPS\bin\Debug\Pelotas.exe.config
+C:\Users\erizo\Downloads\SnowPS\bin\Debug\Pelotas.exe
+C:\Users\erizo\Downloads\SnowPS\bin\Debug\Pelotas.pdb
+C:\Users\erizo\Downloads\SnowPS\obj\x86\Debug\SnowParticleSystem.csproj.AssemblyReference.cache
+C:\Users\erizo\Downloads\SnowPS\obj\x86\Debug\SnowParticleSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\erizo\Downloads\SnowPS\obj\x86\Debug\Pelotas.Balls.resources
+C:\Users\erizo\Downloads\SnowPS\obj\x86\Debug\Pelotas.Pelotas.resources
+C:\Users\erizo\Downloads\SnowPS\obj\x86\Debug\Pelotas.Properties.Resources.resources
+C:\Users\erizo\Downloads\SnowPS\obj\x86\Debug\SnowParticleSystem.csproj.GenerateResource.cache
+C:\Users\erizo\Downloads\SnowPS\obj\x86\Debug\SnowParticleSystem.csproj.CoreCompileInputs.cache
+C:\Users\erizo\Downloads\SnowPS\obj\x86\Debug\Pelotas.exe
+C:\Users\erizo\Downloads\SnowPS\obj\x86\Debug\Pelotas.pdb
